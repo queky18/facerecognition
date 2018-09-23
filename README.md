@@ -1,2 +1,15 @@
-# facerecognition
-Face recognition app, where you will insert your photo and face will be detected.
+# facerecognition Client
+
+Clone this repo
+
+Run npm install
+
+Run npm start
+
+# facerecognition Server
+
+Clone this repo
+
+Run npm install
+
+Run npm start
