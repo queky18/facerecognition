@@ -2,20 +2,31 @@
 
 # dependencies
 facerecognition_client/node_modules
+facerecognition_server/node_modules
 
 # testing
-/coverage
+facerecognition_client/coverage
+facerecognition_server/coverage
 
 # production
-/build
+facerecognition_client/build
+facerecognition_server/build
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+facerecognition_client/.DS_Store
+facerecognition_server/.DS_Store
+facerecognition_client/.env.local
+facerecognition_server/.env.local
+facerecognition_client/.env.development.local
+facerecognition_server/.env.development.local
+facerecognition_client/.env.test.local
+facerecognition_server/.env.test.local
+facerecognition_client/.env.production.local
+facerecognition_server/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+facerecognition_client/npm-debug.log*
+facerecognition_server/npm-debug.log*
+facerecognition_client/yarn-debug.log*
+facerecognition_server/yarn-debug.log*
+facerecognition_client/yarn-error.log*
+facerecognition_server/yarn-error.log*
